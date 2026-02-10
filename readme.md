@@ -8,7 +8,7 @@ A aplicação simula uma rede de nós localmente, onde cada nó possui um identi
 
 O projeto foi executado no Replit utilizando o template C++.
 
-Basta colar o código no arquivo `main.cpp` e clicar em "Run.
+Basta colar o código no arquivo `main.cpp` e clicar em "Run".
 
 ## Tecnologias
 - C++
