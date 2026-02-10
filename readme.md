@@ -1,16 +1,21 @@
-# Ponderada (DHT) em C++
+# Ponderada DHT em C++
 
 Este projeto implementa uma Distributed Hash Table (DHT) simples, inspirada no protocolo Kademlia, com o objetivo de demonstrar de forma didática os conceitos de armazenamento distribuído.
 
 A aplicação simula uma rede de nós localmente, onde cada nó possui um identificador único. As chaves são armazenadas no nó cuja distância XOR em relação à chave é a menor, conceito central do Kademlia.
 
+## O que é "DHT"?
+
+De forma breve, é uma tabela hash distribuída (DHT) descentralizada, usada para armazenar e recuperar dados em uma rede de nós.
+
 ## Como executar
 
-O projeto foi executado no Replit utilizando o template C++.
+O projeto foi executado no Replit.
 
-Basta colar o código no arquivo `main.cpp` e clicar em "Run".
+Cole o código no arquivo "main.cpp" e clique em "Run".
 
-## Tecnologias
+## Tecnologias utilizadas
+
 - C++
 - Replit
 
